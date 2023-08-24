@@ -1,6 +1,6 @@
-# Platzi Travel
+<h1 align="center">Platzi Travel</h1>
 
-# Proyecto de Aprendizaje de Tailwind CSS 
+# Proyecto de Aprendizaje de Tailwind CSS
 
 ¡Bienvenido al proyecto de aprendizaje de Tailwind CSS de Platzi! En este proyecto, explorarás y aprenderás a utilizar Tailwind CSS para crear diseños y estilos atractivos y responsivos para tus sitios web.
 
