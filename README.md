@@ -1,7 +1,7 @@
-<h1 align="center">
-  Proyecto de Aprendizaje de Tailwind CSS
+<div align="center">
   <img src="public/img/img-tailwind.png" alt="Tailwind Logo" style="border-radius: 16px;" width="100"  >
-</h1>
+  <h1>Proyecto de Aprendizaje de Tailwind CSS</h1>
+</div>s
 
 <h1 align="center">Platzi Travel</h1>
 
