@@ -6,12 +6,12 @@
 
 ## Índice
 
-* [1. Descripción](#1-descripción)
-* [2. Objetivos](#2-objetivos)
-* [3. Instrucciones](#3-instrucciones)
-* [4. Recursos Adicionales](#4-recursos-adicionales)
-* [5. Contribución](#5-contribución)
-* [6. Licencia](#6-licencia)
+* [1. Descripción](#descripción)
+* [2. Objetivos](#objetivos)
+* [3. Instrucciones](#instrucciones)
+* [4. Recursos Adicionales](#recursos-adicionales)
+* [5. Contribución](#contribución)
+* [6. Licencia](#licencia)
 
 
 ## Descripción
