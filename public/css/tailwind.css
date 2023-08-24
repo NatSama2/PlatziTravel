@@ -709,8 +709,20 @@ select {
   display: flex;
 }
 
+.h-2\/5 {
+  height: 40%;
+}
+
 .h-3\/4 {
   height: 75%;
+}
+
+.h-3\/5 {
+  height: 60%;
+}
+
+.h-64 {
+  height: 16rem;
 }
 
 .h-full {
@@ -725,6 +737,10 @@ select {
   width: 8rem;
 }
 
+.w-48 {
+  width: 12rem;
+}
+
 .w-full {
   width: 100%;
 }
@@ -737,6 +753,10 @@ select {
   align-items: center;
 }
 
+.justify-center {
+  justify-content: center;
+}
+
 .space-y-96 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0;
   margin-top: calc(24rem * calc(1 - var(--tw-space-y-reverse)));
@@ -747,9 +767,40 @@ select {
   border-radius: 9999px;
 }
 
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.rounded-b-lg {
+  border-bottom-right-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+}
+
+.rounded-t-lg {
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+
+.bg-secondary {
+  --tw-bg-opacity: 1;
+  background-color: rgb(143 162 6 / var(--tw-bg-opacity));
+}
+
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-norway {
+  background-image: url('../img/norway.jpg');
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.p-20 {
+  padding: 5rem;
 }
 
 .p-3 {
@@ -777,6 +828,17 @@ select {
 .text-primary {
   --tw-text-opacity: 1;
   color: rgb(204 45 74 / var(--tw-text-opacity));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.shadow-md {
+  --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
 .shadow-sm {
