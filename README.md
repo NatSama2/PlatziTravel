@@ -1,9 +1,9 @@
-<h1 align="center">Platzi Travel</h1>
-
-<h1 align="center">
-  <img src="public/img/img-tailwind.png" alt="Tailwind Logo" style="border-radius: 16px;" width="100"  >
+<h1>
+  <img src="public/img/img-tailwind.png" alt="Tailwind Logo" style="border-radius: 16px;" width="100" align="left">
   Proyecto de Aprendizaje de Tailwind CSS
 </h1>
+
+<h1 align="center">Platzi Travel</h1>
 
 
 ¡Bienvenido al proyecto de aprendizaje de Tailwind CSS de Platzi! En este proyecto, explorarás y aprenderás a utilizar Tailwind CSS para crear diseños y estilos atractivos y responsivos para tus sitios web.
