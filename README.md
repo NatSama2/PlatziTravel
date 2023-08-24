@@ -1,5 +1,5 @@
-<h1>
-  <img src="public/img/img-tailwind.png" alt="Tailwind Logo" style="border-radius: 16px;" width="100">
+<h1 align="center">
+  <img src="public/img/img-tailwind.png" alt="Tailwind Logo" style="border-radius: 16px;" width="90">
   Proyecto de Aprendizaje de Tailwind CSS
 </h1>
 
