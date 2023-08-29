@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tw:build": "tailwind -i ./src/css/tailwind.css -o ./public/css/tailwind.css" 
+    "tw:build": "tailwind -i ./src/css/tailwind.css -o ./public/css/tailwind.css"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
-    "@tailwindcss/forms": "^0.5.5"
+    "@tailwindcss/forms": "^0.5.5",
+    "tailwind-scrollbar-hide": "^1.1.7"
   }
 }
